@@ -1,0 +1,12 @@
+Đề 10: Viết chương trình so trùng ảnh dùng “The Skein Hash Function Family” trên Spark
+Nhóm đăng ký:
+Nguyễn Đức Tuấn - 1927040 - tuan.nguyen19051996@hcmut.edu.vn
+Nguyễn Tuấn Kiệt - 1927021 - kiet.nguyentuan@hcmut.edu.vn
+Lý thuyết:
+-       Tìm hiểu Spark
+-       Tìm hiểu “The Skein Hash Function Family”
+-       Giải pháp loại các ảnh trùng nhau trong một tập ảnh lớn.
+- Triển khai Spark docker: https://github.com/bitnami/bitnami-docker-spark
+Hiện thực:
+-       Viết chương trình
+-       Đánh giá hiệu suất trên hệ thống thực.
