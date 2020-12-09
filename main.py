@@ -6,7 +6,7 @@ from skein import skein256, skein512, skein1024
 from functools import reduce
 sc = SparkContext.getOrCreate()
 print('\n-------- PROGRAM START HERE --------\n')
-PATH_TO_IMAGES = './images/'
+PATH_TO_IMAGES = './bigImage/'
 
 os.chdir(PATH_TO_IMAGES) #URL to the images folder
 os.getcwd()
